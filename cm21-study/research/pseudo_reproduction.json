@@ -1,0 +1,14 @@
+{
+  "seed1": {
+    "rows_supplied": 60,
+    "rows_rerun": 60,
+    "differences": [],
+    "exact_equal": true
+  },
+  "seed2": {
+    "rows_supplied": 60,
+    "rows_rerun": 60,
+    "differences": [],
+    "exact_equal": true
+  }
+}

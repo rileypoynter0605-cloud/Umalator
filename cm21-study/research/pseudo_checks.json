@@ -1,0 +1,14 @@
+{
+  "seed1": {
+    "rows": 60,
+    "all_fields_equal": true
+  },
+  "seed2": {
+    "rows": 60,
+    "all_fields_equal": true
+  },
+  "combined": {
+    "rows": 60,
+    "all_common_fields_equal": true
+  }
+}

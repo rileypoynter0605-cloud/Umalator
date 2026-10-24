@@ -1,0 +1,65 @@
+{
+  "calls": 157,
+  "N": 1024,
+  "baseline": {
+    "mean": 56.445096553665195,
+    "lo": 56.43811928286055,
+    "hi": 56.45207382446984,
+    "min": 56.14893001842919,
+    "max": 56.77969339853869
+  },
+  "best": [
+    {
+      "scenario": "sampled",
+      "package": "candidate_2",
+      "sp": 2742,
+      "seconds_saved": 0.7791463654569938,
+      "ci95_low": 0.7708452932032163,
+      "ci95_high": 0.7874474377107713,
+      "mean_seconds": 55.66595018820823,
+      "hp_ratio": 0.19380262683362723,
+      "hp_exhausted": 0,
+      "trials": 1024,
+      "skills": "Winter Runner ○; Firm Conditions ○; Front Runner Savvy ○; Groundwork; Early Lead; Victoria por Plancha; Professor of Curvature; Fast-Paced; Final Push; Turbo Sprint; Staggering Lead; Front Runner Straightaways ◎; Top Runner; See Ya Later; Light as a Feather; Mad Dash"
+    },
+    {
+      "scenario": "sampled",
+      "package": "candidate_1",
+      "sp": 2693,
+      "seconds_saved": 0.778344260508909,
+      "ci95_low": 0.7701855467470397,
+      "ci95_high": 0.7865029742707784,
+      "mean_seconds": 55.666752293156286,
+      "hp_ratio": 0.19708020187838107,
+      "hp_exhausted": 0,
+      "trials": 1024,
+      "skills": "Winter Runner ○; Firm Conditions ○; Front Runner Savvy ○; Groundwork; Early Lead; Victoria por Plancha; Operation Cacao; Professor of Curvature; Fast-Paced; Final Push; Turbo Sprint; Staggering Lead; Top Runner; See Ya Later; Light as a Feather; Mad Dash"
+    },
+    {
+      "scenario": "sampled",
+      "package": "candidate_3",
+      "sp": 2743,
+      "seconds_saved": 0.7774329241068342,
+      "ci95_low": 0.7692485277084371,
+      "ci95_high": 0.7856173205052313,
+      "mean_seconds": 55.66766362955842,
+      "hp_ratio": 0.19382772509648322,
+      "hp_exhausted": 0,
+      "trials": 1024,
+      "skills": "Winter Runner ○; Firm Conditions ◎; Front Runner Savvy ○; Groundwork; Early Lead; Victoria por Plancha; Professor of Curvature; Fast-Paced; Final Push; Turbo Sprint; Staggering Lead; Front Runner Straightaways ○; Top Runner; See Ya Later; Light as a Feather; Mad Dash"
+    },
+    {
+      "scenario": "sampled",
+      "package": "prior_top_runner",
+      "sp": 2693,
+      "seconds_saved": 0.7487933559409962,
+      "ci95_low": 0.7405228594785499,
+      "ci95_high": 0.7570638524034424,
+      "mean_seconds": 55.696303197724234,
+      "hp_ratio": 0.23312919785979572,
+      "hp_exhausted": 0,
+      "trials": 1024,
+      "skills": "Victoria por Plancha; Operation Cacao; Winter Runner ○; Firm Conditions ○; Professor of Curvature; Straightaway Adept; Early Lead; Fast-Paced; Final Push; Turbo Sprint; Front Runner Straightaways ◎; Front Runner Savvy ○; Groundwork; Tail Held High; See Ya Later; Light as a Feather; Top Runner"
+    }
+  ]
+}

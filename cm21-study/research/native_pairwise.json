@@ -1,0 +1,2662 @@
+[
+  {
+    "mode": "solo-comparison",
+    "package": "prior_balanced",
+    "trials": 256,
+    "mean_engine_margin": 7.499493289700352,
+    "ci95_low": 7.333999270752515,
+    "ci95_high": 7.664987308648189,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 4,
+          "min": 1,
+          "max": 4,
+          "mean": 3.640625,
+          "median": 4,
+          "minScore": 1200,
+          "maxScore": 4800,
+          "meanScore": 4368.75,
+          "medianScore": 4800
+        },
+        "regular": {
+          "equipped": 13,
+          "min": 9,
+          "max": 13,
+          "mean": 12.03515625,
+          "median": 12,
+          "minScore": 4500,
+          "maxScore": 6500,
+          "meanScore": 6017.578125,
+          "medianScore": 6000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 90.625,
+          "200362": 89.0625,
+          "200532": 94.53125,
+          "200542": 90.234375,
+          "200552": 92.578125,
+          "200651": 91.796875,
+          "201241": 90.625,
+          "201522": 100,
+          "201601": 88.28125,
+          "201611": 92.1875,
+          "201662": 89.453125,
+          "202042": 90.234375,
+          "210071": 92.1875,
+          "900141": 89.84375,
+          "910261": 85.9375
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 100
+      }
+    }
+  },
+  {
+    "mode": "solo-comparison",
+    "package": "prior_top_runner",
+    "trials": 256,
+    "mean_engine_margin": 7.598684797050752,
+    "ci95_low": 7.432472437238989,
+    "ci95_high": 7.764897156862515,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 4,
+          "min": 1,
+          "max": 4,
+          "mean": 3.6171875,
+          "median": 4,
+          "minScore": 1200,
+          "maxScore": 4800,
+          "meanScore": 4340.625,
+          "medianScore": 4800
+        },
+        "regular": {
+          "equipped": 13,
+          "min": 9,
+          "max": 13,
+          "mean": 12.05859375,
+          "median": 12,
+          "minScore": 4500,
+          "maxScore": 6500,
+          "meanScore": 6029.296875,
+          "medianScore": 6000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 90.625,
+          "200362": 90.234375,
+          "200532": 94.53125,
+          "200542": 89.453125,
+          "200552": 91.796875,
+          "200651": 90.625,
+          "201241": 92.1875,
+          "201271": 89.84375,
+          "201522": 100,
+          "201601": 88.28125,
+          "201611": 89.0625,
+          "201662": 90.625,
+          "202042": 91.015625,
+          "900141": 90.625,
+          "910261": 88.671875
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 100
+      }
+    }
+  },
+  {
+    "mode": "solo-comparison",
+    "package": "candidate_1",
+    "trials": 256,
+    "mean_engine_margin": 7.925569097678064,
+    "ci95_low": 7.753831299232481,
+    "ci95_high": 8.097306896123648,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 5,
+          "min": 2,
+          "max": 5,
+          "mean": 4.49609375,
+          "median": 5,
+          "minScore": 2400,
+          "maxScore": 6000,
+          "meanScore": 5395.3125,
+          "medianScore": 6000
+        },
+        "regular": {
+          "equipped": 11,
+          "min": 6,
+          "max": 11,
+          "mean": 10.234375,
+          "median": 10,
+          "minScore": 3000,
+          "maxScore": 5500,
+          "meanScore": 5117.1875,
+          "medianScore": 5000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 91.015625,
+          "200532": 94.53125,
+          "200542": 91.40625,
+          "200552": 89.453125,
+          "200651": 92.578125,
+          "200981": 89.0625,
+          "201271": 88.671875,
+          "201522": 100,
+          "201601": 88.28125,
+          "201662": 88.28125,
+          "202042": 87.890625,
+          "202392": 90.234375,
+          "900141": 90.234375,
+          "910261": 91.40625
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 100
+      }
+    }
+  },
+  {
+    "mode": "solo-comparison",
+    "package": "conservative",
+    "trials": 256,
+    "mean_engine_margin": 7.107043929789441,
+    "ci95_low": 6.933987692833029,
+    "ci95_high": 7.280100166745853,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 3,
+          "min": 1,
+          "max": 3,
+          "mean": 2.6953125,
+          "median": 3,
+          "minScore": 1200,
+          "maxScore": 3600,
+          "meanScore": 3234.375,
+          "medianScore": 3600
+        },
+        "regular": {
+          "equipped": 12,
+          "min": 8,
+          "max": 12,
+          "mean": 11.109375,
+          "median": 11,
+          "minScore": 4000,
+          "maxScore": 6000,
+          "meanScore": 5554.6875,
+          "medianScore": 5500
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200151": 100,
+          "200201": 100,
+          "200331": 90.625,
+          "200362": 89.453125,
+          "200532": 94.53125,
+          "200542": 87.5,
+          "200651": 92.1875,
+          "201241": 89.0625,
+          "201521": 100,
+          "201601": 88.28125,
+          "201611": 92.578125,
+          "202042": 90.625,
+          "202392": 88.671875,
+          "210071": 86.71875,
+          "900141": 90.234375
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 100
+      }
+    }
+  },
+  {
+    "mode": "virtual-front",
+    "package": "prior_balanced",
+    "trials": 256,
+    "mean_engine_margin": 7.545345996247313,
+    "ci95_low": 7.376884035043304,
+    "ci95_high": 7.713807957451323,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 4,
+          "min": 1,
+          "max": 4,
+          "mean": 3.640625,
+          "median": 4,
+          "minScore": 1200,
+          "maxScore": 4800,
+          "meanScore": 4368.75,
+          "medianScore": 4800
+        },
+        "regular": {
+          "equipped": 13,
+          "min": 9,
+          "max": 13,
+          "mean": 12.0390625,
+          "median": 12,
+          "minScore": 4500,
+          "maxScore": 6500,
+          "meanScore": 6019.53125,
+          "medianScore": 6000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 90.625,
+          "200362": 89.0625,
+          "200532": 94.53125,
+          "200542": 90.234375,
+          "200552": 92.578125,
+          "200651": 91.796875,
+          "201241": 90.625,
+          "201522": 100,
+          "201601": 88.28125,
+          "201611": 91.796875,
+          "201662": 89.453125,
+          "202042": 90.234375,
+          "210071": 92.1875,
+          "900141": 89.84375,
+          "910261": 86.71875
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 79.296875
+      }
+    }
+  },
+  {
+    "mode": "virtual-front",
+    "package": "prior_top_runner",
+    "trials": 256,
+    "mean_engine_margin": 7.644872848553117,
+    "ci95_low": 7.476704812258183,
+    "ci95_high": 7.813040884848051,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 4,
+          "min": 1,
+          "max": 4,
+          "mean": 3.6171875,
+          "median": 4,
+          "minScore": 1200,
+          "maxScore": 4800,
+          "meanScore": 4340.625,
+          "medianScore": 4800
+        },
+        "regular": {
+          "equipped": 13,
+          "min": 9,
+          "max": 13,
+          "mean": 12.0546875,
+          "median": 12,
+          "minScore": 4500,
+          "maxScore": 6500,
+          "meanScore": 6027.34375,
+          "medianScore": 6000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 91.015625,
+          "200362": 90.234375,
+          "200532": 94.53125,
+          "200542": 89.0625,
+          "200552": 91.40625,
+          "200651": 90.625,
+          "201241": 92.578125,
+          "201271": 89.84375,
+          "201522": 100,
+          "201601": 88.28125,
+          "201611": 89.453125,
+          "201662": 90.234375,
+          "202042": 91.015625,
+          "900141": 90.625,
+          "910261": 88.28125
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 87.5
+      }
+    }
+  },
+  {
+    "mode": "virtual-front",
+    "package": "candidate_1",
+    "trials": 256,
+    "mean_engine_margin": 7.929274016972818,
+    "ci95_low": 7.753961974664427,
+    "ci95_high": 8.10458605928121,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 5,
+          "min": 2,
+          "max": 5,
+          "mean": 4.49609375,
+          "median": 5,
+          "minScore": 2400,
+          "maxScore": 6000,
+          "meanScore": 5395.3125,
+          "medianScore": 6000
+        },
+        "regular": {
+          "equipped": 11,
+          "min": 6,
+          "max": 11,
+          "mean": 10.234375,
+          "median": 10,
+          "minScore": 3000,
+          "maxScore": 5500,
+          "meanScore": 5117.1875,
+          "medianScore": 5000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 91.015625,
+          "200532": 94.53125,
+          "200542": 91.40625,
+          "200552": 89.453125,
+          "200651": 92.578125,
+          "200981": 88.671875,
+          "201271": 88.671875,
+          "201522": 100,
+          "201601": 88.28125,
+          "201662": 88.671875,
+          "202042": 87.890625,
+          "202392": 90.625,
+          "900141": 90.234375,
+          "910261": 91.015625
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 93.359375
+      }
+    }
+  },
+  {
+    "mode": "virtual-front",
+    "package": "conservative",
+    "trials": 256,
+    "mean_engine_margin": 7.206048637783725,
+    "ci95_low": 7.030441874543049,
+    "ci95_high": 7.3816554010244015,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 3,
+          "min": 1,
+          "max": 3,
+          "mean": 2.69921875,
+          "median": 3,
+          "minScore": 1200,
+          "maxScore": 3600,
+          "meanScore": 3239.0625,
+          "medianScore": 3600
+        },
+        "regular": {
+          "equipped": 12,
+          "min": 7,
+          "max": 12,
+          "mean": 11.09765625,
+          "median": 11,
+          "minScore": 3500,
+          "maxScore": 6000,
+          "meanScore": 5548.828125,
+          "medianScore": 5500
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200151": 100,
+          "200201": 100,
+          "200331": 91.015625,
+          "200362": 89.453125,
+          "200532": 94.53125,
+          "200542": 87.5,
+          "200651": 91.796875,
+          "201241": 89.0625,
+          "201521": 100,
+          "201601": 88.28125,
+          "201611": 91.40625,
+          "202042": 90.625,
+          "202392": 88.671875,
+          "210071": 87.109375,
+          "900141": 90.234375
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 72.65625
+      }
+    }
+  },
+  {
+    "mode": "virtual-pace",
+    "package": "prior_balanced",
+    "trials": 256,
+    "mean_engine_margin": 7.0728082550662945,
+    "ci95_low": 6.900100885414809,
+    "ci95_high": 7.24551562471778,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 4,
+          "min": 1,
+          "max": 4,
+          "mean": 3.640625,
+          "median": 4,
+          "minScore": 1200,
+          "maxScore": 4800,
+          "meanScore": 4368.75,
+          "medianScore": 4800
+        },
+        "regular": {
+          "equipped": 13,
+          "min": 9,
+          "max": 13,
+          "mean": 12.0390625,
+          "median": 12,
+          "minScore": 4500,
+          "maxScore": 6500,
+          "meanScore": 6019.53125,
+          "medianScore": 6000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 90.625,
+          "200362": 89.0625,
+          "200532": 94.53125,
+          "200542": 90.234375,
+          "200552": 92.578125,
+          "200651": 91.796875,
+          "201241": 90.625,
+          "201522": 100,
+          "201601": 88.28125,
+          "201611": 92.1875,
+          "201662": 89.453125,
+          "202042": 90.234375,
+          "210071": 92.1875,
+          "900141": 89.84375,
+          "910261": 86.328125
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 99.609375
+      }
+    }
+  },
+  {
+    "mode": "virtual-pace",
+    "package": "prior_top_runner",
+    "trials": 256,
+    "mean_engine_margin": 6.937644903414189,
+    "ci95_low": 6.767277104879826,
+    "ci95_high": 7.108012701948553,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 4,
+          "min": 1,
+          "max": 4,
+          "mean": 3.61328125,
+          "median": 4,
+          "minScore": 1200,
+          "maxScore": 4800,
+          "meanScore": 4335.9375,
+          "medianScore": 4800
+        },
+        "regular": {
+          "equipped": 13,
+          "min": 9,
+          "max": 13,
+          "mean": 12.0625,
+          "median": 12,
+          "minScore": 4500,
+          "maxScore": 6500,
+          "meanScore": 6031.25,
+          "medianScore": 6000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 90.625,
+          "200362": 90.234375,
+          "200532": 94.53125,
+          "200542": 89.453125,
+          "200552": 91.796875,
+          "200651": 90.625,
+          "201241": 92.1875,
+          "201271": 89.84375,
+          "201522": 100,
+          "201601": 88.28125,
+          "201611": 89.453125,
+          "201662": 90.234375,
+          "202042": 91.015625,
+          "900141": 90.625,
+          "910261": 88.671875
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 100
+      }
+    }
+  },
+  {
+    "mode": "virtual-pace",
+    "package": "candidate_1",
+    "trials": 256,
+    "mean_engine_margin": 7.206568123487727,
+    "ci95_low": 7.032216294001944,
+    "ci95_high": 7.3809199529735094,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 5,
+          "min": 2,
+          "max": 5,
+          "mean": 4.5,
+          "median": 5,
+          "minScore": 2400,
+          "maxScore": 6000,
+          "meanScore": 5400,
+          "medianScore": 6000
+        },
+        "regular": {
+          "equipped": 11,
+          "min": 6,
+          "max": 11,
+          "mean": 10.23046875,
+          "median": 10,
+          "minScore": 3000,
+          "maxScore": 5500,
+          "meanScore": 5115.234375,
+          "medianScore": 5000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 91.015625,
+          "200532": 94.53125,
+          "200542": 91.40625,
+          "200552": 89.453125,
+          "200651": 92.578125,
+          "200981": 88.671875,
+          "201271": 88.671875,
+          "201522": 100,
+          "201601": 88.28125,
+          "201662": 89.0625,
+          "202042": 87.5,
+          "202392": 90.625,
+          "900141": 90.234375,
+          "910261": 91.015625
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 100
+      }
+    }
+  },
+  {
+    "mode": "virtual-pace",
+    "package": "conservative",
+    "trials": 256,
+    "mean_engine_margin": 6.843212291173721,
+    "ci95_low": 6.6713431782280095,
+    "ci95_high": 7.0150814041194325,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 3,
+          "min": 1,
+          "max": 3,
+          "mean": 2.69921875,
+          "median": 3,
+          "minScore": 1200,
+          "maxScore": 3600,
+          "meanScore": 3239.0625,
+          "medianScore": 3600
+        },
+        "regular": {
+          "equipped": 12,
+          "min": 8,
+          "max": 12,
+          "mean": 11.10546875,
+          "median": 11,
+          "minScore": 4000,
+          "maxScore": 6000,
+          "meanScore": 5552.734375,
+          "medianScore": 5500
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200151": 100,
+          "200201": 100,
+          "200331": 91.015625,
+          "200362": 89.453125,
+          "200532": 94.53125,
+          "200542": 87.5,
+          "200651": 92.1875,
+          "201241": 89.0625,
+          "201521": 100,
+          "201601": 88.28125,
+          "201611": 92.1875,
+          "202042": 90.625,
+          "202392": 88.671875,
+          "210071": 86.71875,
+          "900141": 90.234375
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 99.21875
+      }
+    }
+  },
+  {
+    "mode": "virtual-elite-front",
+    "package": "prior_balanced",
+    "trials": 256,
+    "mean_engine_margin": 7.546953751065317,
+    "ci95_low": 7.378543811043275,
+    "ci95_high": 7.715363691087359,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 4,
+          "min": 1,
+          "max": 4,
+          "mean": 3.640625,
+          "median": 4,
+          "minScore": 1200,
+          "maxScore": 4800,
+          "meanScore": 4368.75,
+          "medianScore": 4800
+        },
+        "regular": {
+          "equipped": 13,
+          "min": 9,
+          "max": 13,
+          "mean": 12.0390625,
+          "median": 12,
+          "minScore": 4500,
+          "maxScore": 6500,
+          "meanScore": 6019.53125,
+          "medianScore": 6000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 90.625,
+          "200362": 89.0625,
+          "200532": 94.53125,
+          "200542": 90.234375,
+          "200552": 92.578125,
+          "200651": 91.796875,
+          "201241": 90.625,
+          "201522": 100,
+          "201601": 88.28125,
+          "201611": 91.796875,
+          "201662": 89.453125,
+          "202042": 90.234375,
+          "210071": 92.1875,
+          "900141": 89.84375,
+          "910261": 86.71875
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 73.046875
+      }
+    }
+  },
+  {
+    "mode": "virtual-elite-front",
+    "package": "prior_top_runner",
+    "trials": 256,
+    "mean_engine_margin": 7.650991559829643,
+    "ci95_low": 7.483087347874287,
+    "ci95_high": 7.818895771785,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 4,
+          "min": 1,
+          "max": 4,
+          "mean": 3.6171875,
+          "median": 4,
+          "minScore": 1200,
+          "maxScore": 4800,
+          "meanScore": 4340.625,
+          "medianScore": 4800
+        },
+        "regular": {
+          "equipped": 13,
+          "min": 9,
+          "max": 13,
+          "mean": 12.0546875,
+          "median": 12,
+          "minScore": 4500,
+          "maxScore": 6500,
+          "meanScore": 6027.34375,
+          "medianScore": 6000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 91.015625,
+          "200362": 90.234375,
+          "200532": 94.53125,
+          "200542": 89.0625,
+          "200552": 91.40625,
+          "200651": 90.625,
+          "201241": 92.578125,
+          "201271": 89.84375,
+          "201522": 100,
+          "201601": 88.28125,
+          "201611": 89.453125,
+          "201662": 90.234375,
+          "202042": 91.015625,
+          "900141": 90.625,
+          "910261": 88.28125
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 81.25
+      }
+    }
+  },
+  {
+    "mode": "virtual-elite-front",
+    "package": "candidate_1",
+    "trials": 256,
+    "mean_engine_margin": 7.93262794864478,
+    "ci95_low": 7.757228820512332,
+    "ci95_high": 8.108027076777226,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 5,
+          "min": 2,
+          "max": 5,
+          "mean": 4.49609375,
+          "median": 5,
+          "minScore": 2400,
+          "maxScore": 6000,
+          "meanScore": 5395.3125,
+          "medianScore": 6000
+        },
+        "regular": {
+          "equipped": 11,
+          "min": 6,
+          "max": 11,
+          "mean": 10.234375,
+          "median": 10,
+          "minScore": 3000,
+          "maxScore": 5500,
+          "meanScore": 5117.1875,
+          "medianScore": 5000
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200152": 100,
+          "200202": 100,
+          "200331": 91.015625,
+          "200532": 94.53125,
+          "200542": 91.40625,
+          "200552": 89.453125,
+          "200651": 92.578125,
+          "200981": 88.671875,
+          "201271": 88.671875,
+          "201522": 100,
+          "201601": 88.28125,
+          "201662": 88.671875,
+          "202042": 87.890625,
+          "202392": 90.625,
+          "900141": 90.234375,
+          "910261": 91.015625
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 88.671875
+      }
+    }
+  },
+  {
+    "mode": "virtual-elite-front",
+    "package": "conservative",
+    "trials": 256,
+    "mean_engine_margin": 7.206048637783725,
+    "ci95_low": 7.030441874543049,
+    "ci95_high": 7.3816554010244015,
+    "stamina": {
+      "uma1": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      },
+      "uma2": {
+        "staminaSurvivalRate": 100,
+        "fullSpurtRate": 100,
+        "hpDiedPositionStatsFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "hpDiedPositionStatsNonFullSpurt": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtVelocityStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        },
+        "nonFullSpurtDelayStats": {
+          "count": 0,
+          "min": null,
+          "max": null,
+          "mean": null,
+          "median": null
+        }
+      }
+    },
+    "activation": {
+      "uma1": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "regular": {
+          "equipped": 0,
+          "min": 0,
+          "max": 0,
+          "mean": 0,
+          "median": 0,
+          "minScore": 0,
+          "maxScore": 0,
+          "meanScore": 0,
+          "medianScore": 0
+        },
+        "skillRates": {
+          "100411": 99.609375
+        }
+      },
+      "uma2": {
+        "unique": {
+          "equipped": true,
+          "rate": 99.609375,
+          "averageScore": 2390.625,
+          "score": 2400
+        },
+        "rare": {
+          "equipped": 3,
+          "min": 1,
+          "max": 3,
+          "mean": 2.69921875,
+          "median": 3,
+          "minScore": 1200,
+          "maxScore": 3600,
+          "meanScore": 3239.0625,
+          "medianScore": 3600
+        },
+        "regular": {
+          "equipped": 12,
+          "min": 7,
+          "max": 12,
+          "mean": 11.09765625,
+          "median": 11,
+          "minScore": 3500,
+          "maxScore": 6000,
+          "meanScore": 5548.828125,
+          "medianScore": 5500
+        },
+        "skillRates": {
+          "100411": 99.609375,
+          "200151": 100,
+          "200201": 100,
+          "200331": 91.015625,
+          "200362": 89.453125,
+          "200532": 94.53125,
+          "200542": 87.5,
+          "200651": 91.796875,
+          "201241": 89.0625,
+          "201521": 100,
+          "201601": 88.28125,
+          "201611": 91.40625,
+          "202042": 90.625,
+          "202392": 88.671875,
+          "210071": 87.109375,
+          "900141": 90.234375
+        }
+      }
+    },
+    "first": {
+      "uma1": {
+        "firstPlaceRate": 0
+      },
+      "uma2": {
+        "firstPlaceRate": 60.9375
+      }
+    }
+  }
+]

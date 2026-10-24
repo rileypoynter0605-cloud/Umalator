@@ -1,0 +1,3 @@
+*.cjs
+raw_results.json
+__pycache__/

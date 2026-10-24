@@ -1,0 +1,61 @@
+lobby,rival_strength,package,trials,sp,win_pct,podium_pct,unique_pct,victoria_pct,toprunner_pct,iww_pct,see_pct,turbo_pct,hp_exhausted_pct
+Pace-heavy (1F 5P 3E),mixed,No purchases,800,0,2.5,15.625,68.375,0.0,0.0,0.0,0.0,0.0,0.0
+Pace-heavy (1F 5P 3E),mixed,Opening/finishing core,800,1886,34.25,56.875,57.0,83.75,0.0,0.0,0.0,90.875,0.0
+Pace-heavy (1F 5P 3E),mixed,Balanced gold + IWW,800,2731,48.875,72.375,47.125,90.0,0.0,91.625,43.625,91.75,0.0
+Pace-heavy (1F 5P 3E),mixed,Contested gold + Top Runner,800,2693,47.25,71.125,48.375,90.375,54.0,0.0,43.125,91.75,0.0
+Pace-heavy (1F 5P 3E),mixed,White Turbo + Focus,800,2580,37.375,61.125,53.25,89.125,0.0,90.125,46.75,90.875,0.0
+Pace-heavy (1F 5P 3E),competitive,No purchases,800,0,0.25,5.375,69.25,0.0,0.0,0.0,0.0,0.0,0.0
+Pace-heavy (1F 5P 3E),competitive,Opening/finishing core,800,1886,23.125,43.625,61.375,78.375,0.0,0.0,0.0,90.5,0.0
+Pace-heavy (1F 5P 3E),competitive,Balanced gold + IWW,800,2731,32.0,54.625,56.0,89.25,0.0,88.0,48.375,91.625,0.0
+Pace-heavy (1F 5P 3E),competitive,Contested gold + Top Runner,800,2693,32.25,53.5,57.0,90.0,62.125,0.0,48.5,91.625,0.0
+Pace-heavy (1F 5P 3E),competitive,White Turbo + Focus,800,2580,24.25,44.125,57.5,87.625,0.0,86.75,50.375,90.875,0.0
+Pace-heavy (1F 5P 3E),elite,No purchases,800,0,0.125,4.375,66.375,0.0,0.0,0.0,0.0,0.0,0.0
+Pace-heavy (1F 5P 3E),elite,Opening/finishing core,800,1886,17.75,36.5,59.625,78.125,0.0,0.0,0.0,92.0,0.0
+Pace-heavy (1F 5P 3E),elite,Balanced gold + IWW,800,2731,27.0,47.0,51.875,88.5,0.0,87.375,51.5,93.0,0.0
+Pace-heavy (1F 5P 3E),elite,Contested gold + Top Runner,800,2693,26.75,46.0,54.125,89.875,64.375,0.0,51.5,93.0,0.0
+Pace-heavy (1F 5P 3E),elite,White Turbo + Focus,800,2580,19.375,37.0,56.75,88.0,0.0,86.0,52.25,91.25,0.0
+Historical-mix (1F 4P 1L 3E),mixed,No purchases,800,0,2.125,16.375,67.875,0.0,0.0,0.0,0.0,0.0,0.0
+Historical-mix (1F 4P 1L 3E),mixed,Opening/finishing core,800,1886,37.625,58.875,53.25,84.625,0.0,0.0,0.0,90.875,0.0
+Historical-mix (1F 4P 1L 3E),mixed,Balanced gold + IWW,800,2731,50.0,73.625,46.0,89.625,0.0,90.375,44.0,90.625,0.0
+Historical-mix (1F 4P 1L 3E),mixed,Contested gold + Top Runner,800,2693,48.875,72.25,47.125,89.5,54.25,0.0,45.0,90.625,0.0
+Historical-mix (1F 4P 1L 3E),mixed,White Turbo + Focus,800,2580,40.5,64.0,48.5,88.625,0.0,90.625,46.75,91.5,0.0
+Historical-mix (1F 4P 1L 3E),competitive,No purchases,800,0,0.625,7.625,67.375,0.0,0.0,0.0,0.0,0.0,0.0
+Historical-mix (1F 4P 1L 3E),competitive,Opening/finishing core,800,1886,24.875,45.125,59.75,80.5,0.0,0.0,0.0,90.625,0.0
+Historical-mix (1F 4P 1L 3E),competitive,Balanced gold + IWW,800,2731,37.625,61.0,50.25,90.375,0.0,92.125,46.375,91.625,0.0
+Historical-mix (1F 4P 1L 3E),competitive,Contested gold + Top Runner,800,2693,36.625,59.875,50.75,90.375,61.375,0.0,45.25,91.625,0.0
+Historical-mix (1F 4P 1L 3E),competitive,White Turbo + Focus,800,2580,28.375,48.875,54.25,89.375,0.0,88.0,48.875,90.625,0.0
+Historical-mix (1F 4P 1L 3E),elite,No purchases,800,0,0.0,3.625,67.125,0.0,0.0,0.0,0.0,0.0,0.0
+Historical-mix (1F 4P 1L 3E),elite,Opening/finishing core,800,1886,18.625,38.375,59.5,80.375,0.0,0.0,0.0,92.125,0.0
+Historical-mix (1F 4P 1L 3E),elite,Balanced gold + IWW,800,2731,25.875,47.75,54.25,89.0,0.0,87.75,47.375,90.375,0.0
+Historical-mix (1F 4P 1L 3E),elite,Contested gold + Top Runner,800,2693,24.875,48.125,56.625,89.25,63.375,0.0,48.0,90.375,0.0
+Historical-mix (1F 4P 1L 3E),elite,White Turbo + Focus,800,2580,21.0,39.5,56.875,87.0,0.0,86.25,49.375,90.75,0.0
+Contested front (2F 4P 3E),mixed,No purchases,800,0,0.75,4.75,47.875,0.0,0.0,0.0,0.0,0.0,0.0
+Contested front (2F 4P 3E),mixed,Opening/finishing core,800,1886,26.25,55.375,59.0,78.25,0.0,0.0,0.0,90.25,0.0
+Contested front (2F 4P 3E),mixed,Balanced gold + IWW,800,2731,44.75,74.125,52.125,84.125,0.0,90.25,46.375,92.875,0.0
+Contested front (2F 4P 3E),mixed,Contested gold + Top Runner,800,2693,43.125,72.0,51.625,85.0,67.5,0.0,46.375,92.875,0.0
+Contested front (2F 4P 3E),mixed,White Turbo + Focus,800,2580,31.75,63.625,55.75,83.0,0.0,88.25,50.625,92.875,0.0
+Contested front (2F 4P 3E),competitive,No purchases,800,0,0.0,2.375,40.75,0.0,0.0,0.0,0.0,0.0,0.0
+Contested front (2F 4P 3E),competitive,Opening/finishing core,800,1886,16.375,39.75,58.375,72.375,0.0,0.0,0.0,91.75,0.0
+Contested front (2F 4P 3E),competitive,Balanced gold + IWW,800,2731,29.5,54.375,53.875,82.625,0.0,89.5,49.875,89.625,0.0
+Contested front (2F 4P 3E),competitive,Contested gold + Top Runner,800,2693,29.25,56.375,54.875,83.625,74.125,0.0,50.0,89.625,0.0
+Contested front (2F 4P 3E),competitive,White Turbo + Focus,800,2580,18.875,44.375,57.5,80.75,0.0,88.125,53.125,91.5,0.0
+Contested front (2F 4P 3E),elite,No purchases,800,0,0.125,1.375,38.375,0.0,0.0,0.0,0.0,0.0,0.0
+Contested front (2F 4P 3E),elite,Opening/finishing core,800,1886,12.125,35.25,62.625,70.75,0.0,0.0,0.0,91.5,0.0
+Contested front (2F 4P 3E),elite,Balanced gold + IWW,800,2731,21.25,47.25,59.875,80.625,0.0,89.125,48.125,92.625,0.0
+Contested front (2F 4P 3E),elite,Contested gold + Top Runner,800,2693,21.5,47.375,60.125,82.875,78.125,0.0,47.625,92.625,0.0
+Contested front (2F 4P 3E),elite,White Turbo + Focus,800,2580,14.25,36.375,60.5,80.25,0.0,85.0,53.0,93.5,0.0
+Front-heavy (3F 4P 2E),mixed,No purchases,800,0,1.25,11.25,38.375,0.0,0.0,0.0,0.0,0.0,0.0
+Front-heavy (3F 4P 2E),mixed,Opening/finishing core,800,1886,31.375,61.125,57.25,74.875,0.0,0.0,0.0,92.375,0.0
+Front-heavy (3F 4P 2E),mixed,Balanced gold + IWW,800,2731,48.5,77.5,53.75,82.125,0.0,89.875,49.625,90.375,0.0
+Front-heavy (3F 4P 2E),mixed,Contested gold + Top Runner,800,2693,47.75,77.25,53.625,82.75,73.25,0.0,47.5,90.375,0.0
+Front-heavy (3F 4P 2E),mixed,White Turbo + Focus,800,2580,33.75,68.75,58.25,80.125,0.0,89.75,51.625,91.0,0.0
+Front-heavy (3F 4P 2E),competitive,No purchases,800,0,0.375,7.0,33.375,0.0,0.0,0.0,0.0,0.0,0.0
+Front-heavy (3F 4P 2E),competitive,Opening/finishing core,800,1886,21.75,51.5,57.0,68.625,0.0,0.0,0.0,89.5,0.0
+Front-heavy (3F 4P 2E),competitive,Balanced gold + IWW,800,2731,37.625,65.5,53.25,77.125,0.0,87.625,53.125,90.125,0.0
+Front-heavy (3F 4P 2E),competitive,Contested gold + Top Runner,800,2693,35.875,64.625,53.25,78.0,75.625,0.0,52.125,90.125,0.0
+Front-heavy (3F 4P 2E),competitive,White Turbo + Focus,800,2580,24.5,58.0,56.5,74.875,0.0,88.125,54.625,89.5,0.0
+Front-heavy (3F 4P 2E),elite,No purchases,800,0,0.125,3.375,27.625,0.0,0.0,0.0,0.0,0.0,0.0
+Front-heavy (3F 4P 2E),elite,Opening/finishing core,800,1886,11.125,37.125,53.375,61.375,0.0,0.0,0.0,90.625,0.0
+Front-heavy (3F 4P 2E),elite,Balanced gold + IWW,800,2731,22.5,51.5,55.125,73.75,0.0,86.5,57.0,92.875,0.0
+Front-heavy (3F 4P 2E),elite,Contested gold + Top Runner,800,2693,21.875,52.125,55.0,76.0,78.625,0.0,55.75,92.875,0.0
+Front-heavy (3F 4P 2E),elite,White Turbo + Focus,800,2580,12.875,39.625,54.125,71.375,0.0,86.0,57.125,92.625,0.0
