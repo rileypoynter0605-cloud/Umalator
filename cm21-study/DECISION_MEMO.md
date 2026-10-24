@@ -1,5 +1,7 @@
 # CM21 decision memo
 
+> **Follow-up supersedes the original default recommendation:** The 788m/800m, correlated-opportunity, green-upgrade and HP study is complete. The most robust tested package within its declared envelope costs **2704 SP (47 remaining)**. See [the follow-up report](followup-788/FOLLOWUP_REPORT.md) and [exact revised purchases](followup-788/recommendation.json). All three original alternatives below remain preserved as historical comparisons.
+
 **The previous pseudo-simulation is reproducible, but its 2731-SP recommendation is not established as optimal.** Use the 522-SP opening core as the strongest common foundation for review. The remaining spend depends on positional-skill reliability. The three complete, budget-legal alternatives and their exact purchase order are in `recommended_shop_order.md`.
 
 ## What was validated

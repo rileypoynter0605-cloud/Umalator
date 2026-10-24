@@ -1,5 +1,7 @@
 # CM21 independent research
 
+**Latest:** [788m course / correlated activation / green-SP / HP follow-up](followup-788/FOLLOWUP_REPORT.md), with [reproduction and result index](followup-788/README.md). Prior outputs and all three original purchase alternatives are preserved.
+
 Start with [DECISION_MEMO.md](DECISION_MEMO.md), then [recommended_shop_order.md](recommended_shop_order.md).
 
 - [INSTALL_AND_VERIFICATION.md](INSTALL_AND_VERIFICATION.md): exact base, commands, data provenance, controls and limitations.

@@ -1,0 +1,17 @@
+{
+  "winner": {
+    "package": "green-mask-6+200552+201661:moxie",
+    "sp": 2704,
+    "remaining_sp": 47,
+    "max_regret_seconds": 0.03819179358156788,
+    "mean_regret_seconds": 0.019870504383412764,
+    "max_normal_regret_seconds": 0.03819179358156788,
+    "worst_exhaustion_fraction": 0.244140625,
+    "minimum_full_spurt_fraction": 0.791015625,
+    "normal_reference_788_gain": 0.7111472939293053,
+    "skills": "200201;200152;201522;201601;200532;900141;200331;200362;200542;200651;201241;202042;210071;201611;200552;201661;201282"
+  },
+  "validated_candidates": 40,
+  "rows": 1680,
+  "old_artifacts_preserved": 54
+}
