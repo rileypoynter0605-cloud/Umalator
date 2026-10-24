@@ -1,0 +1,130 @@
+[
+  {
+    mode: 'solo-comparison',
+    package: 'prior_balanced',
+    trials: 256,
+    mean_engine_margin: 7.499493289700352,
+    ci95_low: 7.333999270752515,
+    ci95_high: 7.664987308648189
+  },
+  {
+    mode: 'solo-comparison',
+    package: 'prior_top_runner',
+    trials: 256,
+    mean_engine_margin: 7.598684797050752,
+    ci95_low: 7.432472437238989,
+    ci95_high: 7.764897156862515
+  },
+  {
+    mode: 'solo-comparison',
+    package: 'candidate_1',
+    trials: 256,
+    mean_engine_margin: 7.925569097678064,
+    ci95_low: 7.753831299232481,
+    ci95_high: 8.097306896123648
+  },
+  {
+    mode: 'solo-comparison',
+    package: 'conservative',
+    trials: 256,
+    mean_engine_margin: 7.107043929789441,
+    ci95_low: 6.933987692833029,
+    ci95_high: 7.280100166745853
+  },
+  {
+    mode: 'virtual-front',
+    package: 'prior_balanced',
+    trials: 256,
+    mean_engine_margin: 7.545345996247313,
+    ci95_low: 7.376884035043304,
+    ci95_high: 7.713807957451323
+  },
+  {
+    mode: 'virtual-front',
+    package: 'prior_top_runner',
+    trials: 256,
+    mean_engine_margin: 7.644872848553117,
+    ci95_low: 7.476704812258183,
+    ci95_high: 7.813040884848051
+  },
+  {
+    mode: 'virtual-front',
+    package: 'candidate_1',
+    trials: 256,
+    mean_engine_margin: 7.929274016972818,
+    ci95_low: 7.753961974664427,
+    ci95_high: 8.10458605928121
+  },
+  {
+    mode: 'virtual-front',
+    package: 'conservative',
+    trials: 256,
+    mean_engine_margin: 7.206048637783725,
+    ci95_low: 7.030441874543049,
+    ci95_high: 7.3816554010244015
+  },
+  {
+    mode: 'virtual-pace',
+    package: 'prior_balanced',
+    trials: 256,
+    mean_engine_margin: 7.0728082550662945,
+    ci95_low: 6.900100885414809,
+    ci95_high: 7.24551562471778
+  },
+  {
+    mode: 'virtual-pace',
+    package: 'prior_top_runner',
+    trials: 256,
+    mean_engine_margin: 6.937644903414189,
+    ci95_low: 6.767277104879826,
+    ci95_high: 7.108012701948553
+  },
+  {
+    mode: 'virtual-pace',
+    package: 'candidate_1',
+    trials: 256,
+    mean_engine_margin: 7.206568123487727,
+    ci95_low: 7.032216294001944,
+    ci95_high: 7.3809199529735094
+  },
+  {
+    mode: 'virtual-pace',
+    package: 'conservative',
+    trials: 256,
+    mean_engine_margin: 6.843212291173721,
+    ci95_low: 6.6713431782280095,
+    ci95_high: 7.0150814041194325
+  },
+  {
+    mode: 'virtual-elite-front',
+    package: 'prior_balanced',
+    trials: 256,
+    mean_engine_margin: 7.546953751065317,
+    ci95_low: 7.378543811043275,
+    ci95_high: 7.715363691087359
+  },
+  {
+    mode: 'virtual-elite-front',
+    package: 'prior_top_runner',
+    trials: 256,
+    mean_engine_margin: 7.650991559829643,
+    ci95_low: 7.483087347874287,
+    ci95_high: 7.818895771785
+  },
+  {
+    mode: 'virtual-elite-front',
+    package: 'candidate_1',
+    trials: 256,
+    mean_engine_margin: 7.93262794864478,
+    ci95_low: 7.757228820512332,
+    ci95_high: 8.108027076777226
+  },
+  {
+    mode: 'virtual-elite-front',
+    package: 'conservative',
+    trials: 256,
+    mean_engine_margin: 7.206048637783725,
+    ci95_low: 7.030441874543049,
+    ci95_high: 7.3816554010244015
+  }
+]

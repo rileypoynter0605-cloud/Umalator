@@ -1,0 +1,105 @@
+{
+  "commit": "96b870a1cf1c9947a81167cce680fa61081d3e07",
+  "node": "v24.19.0",
+  "N": 1024,
+  "seed": 2120226,
+  "course": {
+    "corners": [
+      {
+        "length": 250,
+        "start": 300
+      },
+      {
+        "length": 250,
+        "start": 550
+      }
+    ],
+    "course": 1,
+    "courseSetStatus": [],
+    "distance": 1200,
+    "distanceType": 1,
+    "finishTimeMax": 710000,
+    "finishTimeMin": 675000,
+    "laneMax": 14400,
+    "raceTrackId": 10007,
+    "slopes": [
+      {
+        "length": 775,
+        "slope": -10000,
+        "start": 100
+      },
+      {
+        "length": 100,
+        "slope": 20000,
+        "start": 875
+      }
+    ],
+    "straights": [
+      {
+        "end": 300,
+        "frontType": 2,
+        "start": 0
+      },
+      {
+        "end": 1200,
+        "frontType": 1,
+        "start": 800
+      }
+    ],
+    "surface": 1,
+    "turn": 2,
+    "courseWidth": 11.25,
+    "horseLane": 0.625,
+    "laneChangeAcceleration": 0.03,
+    "laneChangeAccelerationPerFrame": 0.002,
+    "maxLaneDistance": 16.2,
+    "moveLanePoint": 300
+  },
+  "horse": {
+    "speed": 1515,
+    "stamina": 402,
+    "power": 1003,
+    "guts": 695,
+    "wisdom": 976,
+    "strategy": "Nige",
+    "distanceAptitude": "S",
+    "surfaceAptitude": "S",
+    "strategyAptitude": "A",
+    "mood": 0,
+    "uniqueLevel": 4
+  },
+  "replay_exact": true,
+  "timestep_seconds": {
+    "mean": -0.022355366698369183,
+    "lo": -0.03247539723954232,
+    "hi": -0.012235336157196044,
+    "min": -0.14954507037283804,
+    "max": 0.09850786238898479
+  },
+  "baseline": {
+    "time": {
+      "mean": 56.445096553665195,
+      "lo": 56.43811928286055,
+      "hi": 56.45207382446984,
+      "min": 56.14893001842919,
+      "max": 56.77969339853869
+    },
+    "hp": {
+      "mean": 0.25485569396674673,
+      "lo": 0.2525285515046346,
+      "hi": 0.25718283642885886,
+      "min": 0.1291772896676948,
+      "max": 0.3480680513738517
+    },
+    "downhill_seconds": {
+      "mean": 24.139778645833292,
+      "lo": 23.85388335277287,
+      "hi": 24.425673938893716,
+      "min": 8.733333333333322,
+      "max": 35.20000000000007
+    },
+    "exhausted": 0,
+    "unique_activation": 0.9990234375
+  },
+  "calls": 157
+}

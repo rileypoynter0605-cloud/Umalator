@@ -1,0 +1,10 @@
+{
+  "exact_replay": true,
+  "native_timing_invariant_across_quartet_models": true,
+  "course_override": true,
+  "phase_starts_at_800": true,
+  "groundwork_alone_zero": true,
+  "package_budgets": true,
+  "gate_marginal_tolerance": 0.007,
+  "tests_seed": 871203
+}

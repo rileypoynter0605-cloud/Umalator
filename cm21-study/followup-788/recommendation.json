@@ -1,0 +1,529 @@
+{
+  "criterion": "minimum maximum mean-time regret over declared 42-case envelope",
+  "winner": {
+    "package": "green-mask-6+200552+201661:moxie",
+    "sp": 2704,
+    "remaining_sp": 47,
+    "max_regret_seconds": 0.03819179358156788,
+    "mean_regret_seconds": 0.019870504383412764,
+    "max_normal_regret_seconds": 0.03819179358156788,
+    "worst_exhaustion_fraction": 0.244140625,
+    "minimum_full_spurt_fraction": 0.791015625,
+    "normal_reference_788_gain": 0.7111472939293053,
+    "skills": "200201;200152;201522;201601;200532;900141;200331;200362;200542;200651;201241;202042;210071;201611;200552;201661;201282"
+  },
+  "skills": [
+    {
+      "id": "200201",
+      "name": "Winter Runner \u25ce",
+      "total_player_cost": 180,
+      "meta": {
+        "baseCost": 110,
+        "groupId": "20020",
+        "iconId": "10011",
+        "order": 1600,
+        "score": 174
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": -1,
+            "condition": "season==4",
+            "effects": [
+              {
+                "modifier": 600000,
+                "target": 1,
+                "type": 1
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "200152",
+      "name": "Firm Conditions \u25cb",
+      "total_player_cost": 81,
+      "meta": {
+        "baseCost": 90,
+        "groupId": "20015",
+        "iconId": "10031",
+        "order": 1460,
+        "score": 129
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": -1,
+            "condition": "ground_condition==1",
+            "effects": [
+              {
+                "modifier": 400000,
+                "target": 1,
+                "type": 3
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "201522",
+      "name": "Front Runner Savvy \u25cb",
+      "total_player_cost": 88,
+      "meta": {
+        "baseCost": 110,
+        "groupId": "20152",
+        "iconId": "10051",
+        "order": 21150,
+        "score": 174
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": -1,
+            "condition": "running_style==1",
+            "effects": [
+              {
+                "modifier": 400000,
+                "target": 1,
+                "type": 5
+              },
+              {
+                "modifier": 50000,
+                "target": 1,
+                "type": 8
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "201601",
+      "name": "Groundwork",
+      "total_player_cost": 80,
+      "meta": {
+        "baseCost": 100,
+        "groupId": "20160",
+        "iconId": "20041",
+        "order": 21280,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "activate_count_start>=3",
+            "effects": [
+              {
+                "modifier": 2000,
+                "target": 1,
+                "type": 31
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "200532",
+      "name": "Early Lead",
+      "total_player_cost": 72,
+      "meta": {
+        "baseCost": 120,
+        "groupId": "20053",
+        "iconId": "20041",
+        "order": 2290,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 12000,
+            "condition": "running_style==1&phase==0",
+            "effects": [
+              {
+                "modifier": 2000,
+                "target": 1,
+                "type": 31
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "900141",
+      "name": "Victoria por Plancha",
+      "total_player_cost": 120,
+      "meta": {
+        "baseCost": 200,
+        "groupId": "90014",
+        "iconId": "20011",
+        "order": 30,
+        "score": 180
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "is_finalcorner==1&corner==0&hp_per>=30&order<=2",
+            "effects": [
+              {
+                "modifier": 500,
+                "target": 1,
+                "type": 27
+              },
+              {
+                "modifier": 1000,
+                "target": 1,
+                "type": 31
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "200331",
+      "name": "Professor of Curvature",
+      "total_player_cost": 306,
+      "meta": {
+        "baseCost": 180,
+        "groupId": "20033",
+        "iconId": "20012",
+        "order": 1890,
+        "score": 508
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 24000,
+            "condition": "all_corner_random==1",
+            "effects": [
+              {
+                "modifier": 3500,
+                "target": 1,
+                "type": 27
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 2
+      }
+    },
+    {
+      "id": "200362",
+      "name": "Straightaway Adept",
+      "total_player_cost": 153,
+      "meta": {
+        "baseCost": 170,
+        "groupId": "20036",
+        "iconId": "20011",
+        "order": 1990,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "straight_random==1",
+            "effects": [
+              {
+                "modifier": 1500,
+                "target": 1,
+                "type": 27
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "200542",
+      "name": "Fast-Paced",
+      "total_player_cost": 162,
+      "meta": {
+        "baseCost": 180,
+        "groupId": "20054",
+        "iconId": "20011",
+        "order": 2310,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "running_style==1&phase_random==1&order_rate<=50",
+            "effects": [
+              {
+                "modifier": 1500,
+                "target": 1,
+                "type": 27
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "200651",
+      "name": "Turbo Sprint",
+      "total_player_cost": 320,
+      "meta": {
+        "baseCost": 160,
+        "groupId": "20065",
+        "iconId": "20042",
+        "order": 2520,
+        "score": 508
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "distance_type==1&phase_random==2",
+            "effects": [
+              {
+                "modifier": 4000,
+                "target": 1,
+                "type": 31
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 2
+      }
+    },
+    {
+      "id": "201241",
+      "name": "Front Runner Straightaways \u25ce",
+      "total_player_cost": 189,
+      "meta": {
+        "baseCost": 140,
+        "groupId": "20124",
+        "iconId": "20011",
+        "order": 20580,
+        "score": 262
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "running_style==1&straight_random==1",
+            "effects": [
+              {
+                "modifier": 2500,
+                "target": 1,
+                "type": 27
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "202042",
+      "name": "Light as a Feather",
+      "total_player_cost": 144,
+      "meta": {
+        "baseCost": 160,
+        "groupId": "20204",
+        "iconId": "20011",
+        "order": 21550,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 24000,
+            "condition": "distance_type==1&phase_laterhalf_random==1&order_rate<=50",
+            "effects": [
+              {
+                "modifier": 1500,
+                "target": 1,
+                "type": 27
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "210071",
+      "name": "I Wanna Win With You",
+      "total_player_cost": 380,
+      "meta": {
+        "baseCost": 200,
+        "groupId": "21007",
+        "iconId": "20152",
+        "order": 31012,
+        "score": 633
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 12000,
+            "condition": "distance_rate_after_random==50&order_rate<=65",
+            "effects": [
+              {
+                "modifier": 4200,
+                "target": 1,
+                "type": 27
+              },
+              {
+                "modifier": 2400,
+                "target": 1,
+                "type": 31
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 2
+      }
+    },
+    {
+      "id": "201611",
+      "name": "Tail Held High",
+      "total_player_cost": 90,
+      "meta": {
+        "baseCost": 100,
+        "groupId": "20161",
+        "iconId": "20011",
+        "order": 21300,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "activate_count_middle>=3",
+            "effects": [
+              {
+                "modifier": 1500,
+                "target": 1,
+                "type": 27
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "200552",
+      "name": "Final Push",
+      "total_player_cost": 117,
+      "meta": {
+        "baseCost": 180,
+        "groupId": "20055",
+        "iconId": "20041",
+        "order": 2330,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "running_style==1&is_finalcorner_random==1&order==1",
+            "effects": [
+              {
+                "modifier": 2000,
+                "target": 1,
+                "type": 31
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "201661",
+      "name": "Playtime's Over",
+      "total_player_cost": 96,
+      "meta": {
+        "baseCost": 160,
+        "groupId": "20166",
+        "iconId": "20011",
+        "order": 21350,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 30000,
+            "condition": "behind_near_lane_time>=3&accumulatetime>=10",
+            "effects": [
+              {
+                "modifier": 1500,
+                "target": 1,
+                "type": 27
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    },
+    {
+      "id": "201282",
+      "name": "Moxie",
+      "total_player_cost": 126,
+      "meta": {
+        "baseCost": 180,
+        "groupId": "20128",
+        "iconId": "20021",
+        "order": 20670,
+        "score": 217
+      },
+      "data": {
+        "alternatives": [
+          {
+            "baseDuration": 0,
+            "condition": "running_style==1&slope==1&accumulatetime>=10",
+            "effects": [
+              {
+                "modifier": 150,
+                "target": 1,
+                "type": 9
+              }
+            ],
+            "precondition": ""
+          }
+        ],
+        "rarity": 1
+      }
+    }
+  ],
+  "ranked_candidates": 40,
+  "envelope_cases": 42,
+  "trial_count_per_case": 512,
+  "price_status": "supplied totals, discounts not independently verified"
+}

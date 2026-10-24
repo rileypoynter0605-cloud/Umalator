@@ -1,0 +1,160 @@
+boundary,geometry,package,id,skill,family,opportunity_fraction,activation_fraction,mean_trigger_m,mean_trigger_seconds,pre800_fraction
+800,"coherent","conservative","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4433925859893,35.94204081632665,0.392578125
+800,"coherent","conservative","200151","Firm Conditions ◎","non-proximity","",1,0,0,1
+800,"coherent","conservative","200201","Winter Runner ◎","non-proximity","",1,0,0,1
+800,"coherent","conservative","200331","Professor of Curvature","non-proximity","",0.9208984375,545.0827684675986,26.956309650052997,0.9208984375
+800,"coherent","conservative","200362","Straightaway Adept","non-proximity","",0.9072265625,579.7987697050952,28.057768209544687,0.443359375
+800,"coherent","conservative","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+800,"coherent","conservative","200542","Fast-Paced","non-proximity","",0.9130859375,486.93272876840075,24.1346167557932,0.9130859375
+800,"coherent","conservative","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4429880266158,43.519042515184516,0
+800,"coherent","conservative","201241","Front Runner Straightaways ◎","non-proximity","",0.9091796875,582.3082778290495,28.141281775868627,0.4462890625
+800,"coherent","conservative","201521","Front Runner Savvy ◎","non-proximity","",1,0,0,1
+800,"coherent","conservative","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+800,"coherent","conservative","201611","Tail Held High","non-proximity","",0.888671875,563.0290521549371,27.83391941391941,0.888671875
+800,"coherent","conservative","202042","Light as a Feather","non-proximity","",0.919921875,640.6175109497755,31.573036093418253,0.919921875
+800,"coherent","conservative","202392","Mad Dash","non-proximity","",0.90234375,341.31514427562644,17.083116883116848,0.90234375
+800,"coherent","conservative","210071","I Wanna Win With You","non-proximity","",0.9033203125,887.7796999219363,42.824288288288734,0.3427734375
+800,"coherent","conservative","900141","Victoria por Plancha","non-proximity","",0.908203125,800.6913767910528,39.29433691756292,0
+800,"coherent","conditional","100411","Native unique Lv4","native",0.478515625,0.478515625,731.435251695538,35.911020408163424,0.3916015625
+800,"coherent","conditional","200152","Firm Conditions ○","non-proximity","",1,0,0,1
+800,"coherent","conditional","200202","Winter Runner ○","non-proximity","",1,0,0,1
+800,"coherent","conditional","200331","Professor of Curvature","non-proximity","",0.9208984375,545.1288133609427,26.92145634499821,0.9208984375
+800,"coherent","conditional","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+800,"coherent","conditional","200542","Fast-Paced","non-proximity","",0.9130859375,486.92424657375994,24.101247771835993,0.9130859375
+800,"coherent","conditional","200552","Final Push","non-proximity","",0.9033203125,671.5048964931013,33.02623423423426,0.9033203125
+800,"coherent","conditional","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4833706112964,43.50260807431275,0
+800,"coherent","conditional","200981","Staggering Lead","gap",0.349609375,0.31640625,337.4963010403385,16.865226337448533,0.31640625
+800,"coherent","conditional","201271","Top Runner","side",0.4677734375,0.423828125,145.8792019372668,7.6480798771121234,0.423828125
+800,"coherent","conditional","201522","Front Runner Savvy ○","non-proximity","",1,0,0,1
+800,"coherent","conditional","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+800,"coherent","conditional","201662","See Ya Later","close",0.5009765625,0.44921875,245.81386682992644,12.440289855072411,0.4482421875
+800,"coherent","conditional","202042","Light as a Feather","non-proximity","",0.919921875,640.6311161595033,31.53602264685067,0.919921875
+800,"coherent","conditional","202392","Mad Dash","non-proximity","",0.90234375,341.32623545651506,17.059595959595942,0.90234375
+800,"coherent","conditional","900141","Victoria por Plancha","non-proximity","",0.908203125,800.7083849558188,39.27318996415795,0
+800,"coherent","conditional","910261","Operation Cacao","close",0.5185546875,0.462890625,398.22242625834093,19.797468354430322,0.462890625
+800,"coherent","balanced","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4576144415549,35.94503401360554,0.390625
+800,"coherent","balanced","200152","Firm Conditions ○","non-proximity","",1,0,0,1
+800,"coherent","balanced","200202","Winter Runner ○","non-proximity","",1,0,0,1
+800,"coherent","balanced","200331","Professor of Curvature","non-proximity","",0.9208984375,545.1484025863489,26.959420289855068,0.9208984375
+800,"coherent","balanced","200362","Straightaway Adept","non-proximity","",0.9072265625,579.8052649229112,28.05504126300717,0.443359375
+800,"coherent","balanced","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+800,"coherent","balanced","200542","Fast-Paced","non-proximity","",0.9130859375,486.9377106138534,24.133475935828862,0.9130859375
+800,"coherent","balanced","200552","Final Push","non-proximity","",0.9033203125,671.4759665180108,33.06407207207211,0.9033203125
+800,"coherent","balanced","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4654142621638,43.51261164701727,0
+800,"coherent","balanced","201241","Front Runner Straightaways ◎","non-proximity","",0.9091796875,582.3010711719776,28.13813104189083,0.4462890625
+800,"coherent","balanced","201522","Front Runner Savvy ○","non-proximity","",1,0,0,1
+800,"coherent","balanced","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+800,"coherent","balanced","201611","Tail Held High","non-proximity","",0.8916015625,575.5189669840387,28.43950346841909,0.8916015625
+800,"coherent","balanced","201662","See Ya Later","close",0.5009765625,0.44921875,245.75813569462352,12.446521739130386,0.4482421875
+800,"coherent","balanced","202042","Light as a Feather","non-proximity","",0.919921875,640.6175470177596,31.575088464260435,0.919921875
+800,"coherent","balanced","210071","I Wanna Win With You","non-proximity","",0.9033203125,887.7849851290072,42.82090090090136,0.341796875
+800,"coherent","balanced","900141","Victoria por Plancha","non-proximity","",0.908203125,800.7037607585628,39.29584229390697,0
+800,"coherent","balanced","910261","Operation Cacao","close",0.5185546875,0.462890625,398.21111312151265,19.826441631504878,0.462890625
+800,"coherent","victoria_only","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4903943906282,36.26517006802734,0.3916015625
+800,"coherent","victoria_only","900141","Victoria por Plancha","non-proximity","",0.908203125,800.6967122962834,39.63225806451611,0
+788,"coherent","conservative","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4416804872992,35.94122448979603,0.392578125
+788,"coherent","conservative","200151","Firm Conditions ◎","non-proximity","",1,0,0,1
+788,"coherent","conservative","200201","Winter Runner ◎","non-proximity","",1,0,0,1
+788,"coherent","conservative","200331","Professor of Curvature","non-proximity","",0.9208984375,541.3382043656939,26.778579003181356,0.9208984375
+788,"coherent","conservative","200362","Straightaway Adept","non-proximity","",0.9072265625,576.7310946761692,27.92292787944062,0.4482421875
+788,"coherent","conservative","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+788,"coherent","conservative","200542","Fast-Paced","non-proximity","",0.9130859375,486.9323091153954,24.13418894830658,0.9130859375
+788,"coherent","conservative","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4514509750172,43.51354055019699,0
+788,"coherent","conservative","201241","Front Runner Straightaways ◎","non-proximity","",0.9091796875,579.3893945405002,28.013533834586863,0.4580078125
+788,"coherent","conservative","201521","Front Runner Savvy ◎","non-proximity","",1,0,0,1
+788,"coherent","conservative","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+788,"coherent","conservative","201611","Tail Held High","non-proximity","",0.892578125,559.9113442098691,27.6828592268417,0.892578125
+788,"coherent","conservative","202042","Light as a Feather","non-proximity","",0.919921875,640.6224047667978,31.572753007784847,0.919921875
+788,"coherent","conservative","202392","Mad Dash","non-proximity","",0.90234375,341.3105343138298,17.082683982683946,0.90234375
+788,"coherent","conservative","210071","I Wanna Win With You","non-proximity","",0.9033203125,887.8005065848037,42.82234234234281,0.3427734375
+788,"coherent","conservative","900141","Victoria por Plancha","non-proximity","",0.908203125,788.6736180644403,38.71462365591421,0.908203125
+788,"coherent","conditional","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4509132738655,35.91115646258519,0.390625
+788,"coherent","conditional","200152","Firm Conditions ○","non-proximity","",1,0,0,1
+788,"coherent","conditional","200202","Winter Runner ○","non-proximity","",1,0,0,1
+788,"coherent","conditional","200331","Professor of Curvature","non-proximity","",0.9208984375,541.3571665558419,26.741746200070715,0.9208984375
+788,"coherent","conditional","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+788,"coherent","conditional","200542","Fast-Paced","non-proximity","",0.9130859375,486.93503787557194,24.10131907308377,0.9130859375
+788,"coherent","conditional","200552","Final Push","non-proximity","",0.9033203125,665.4340498999094,32.73196396396397,0.9033203125
+788,"coherent","conditional","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4716216935459,43.49917827795691,0
+788,"coherent","conditional","200981","Staggering Lead","gap",0.349609375,0.31640625,337.501574039481,16.86522633744853,0.31640625
+788,"coherent","conditional","201271","Top Runner","side",0.4677734375,0.423828125,145.88184661618192,7.6480798771121234,0.423828125
+788,"coherent","conditional","201522","Front Runner Savvy ○","non-proximity","",1,0,0,1
+788,"coherent","conditional","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+788,"coherent","conditional","201662","See Ya Later","close",0.5009765625,0.44921875,245.81389671790404,12.44014492753618,0.4482421875
+788,"coherent","conditional","202042","Light as a Feather","non-proximity","",0.919921875,640.6607924881826,31.537225760792637,0.919921875
+788,"coherent","conditional","202392","Mad Dash","non-proximity","",0.90234375,341.33730823260424,17.059884559884544,0.90234375
+788,"coherent","conditional","900141","Victoria por Plancha","non-proximity","",0.908203125,788.6869119936059,38.69218637992841,0.908203125
+788,"coherent","conditional","910261","Operation Cacao","close",0.5185546875,0.462890625,395.8935332504456,19.68452883263006,0.462890625
+788,"coherent","balanced","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4630744031875,35.94448979591846,0.390625
+788,"coherent","balanced","200152","Firm Conditions ○","non-proximity","",1,0,0,1
+788,"coherent","balanced","200202","Winter Runner ○","non-proximity","",1,0,0,1
+788,"coherent","balanced","200331","Professor of Curvature","non-proximity","",0.9208984375,541.3755750729123,26.779498055850144,0.9208984375
+788,"coherent","balanced","200362","Straightaway Adept","non-proximity","",0.9072265625,576.726237439517,27.921564406171886,0.4482421875
+788,"coherent","balanced","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+788,"coherent","balanced","200542","Fast-Paced","non-proximity","",0.9130859375,486.92913175980715,24.132549019607826,0.9130859375
+788,"coherent","balanced","200552","Final Push","non-proximity","",0.9033203125,665.4187565005764,32.77081081081085,0.9033203125
+788,"coherent","balanced","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4557283227111,43.50925330475221,0
+788,"coherent","balanced","201241","Front Runner Straightaways ◎","non-proximity","",0.9091796875,579.3929250049873,28.012960973863603,0.4580078125
+788,"coherent","balanced","201522","Front Runner Savvy ○","non-proximity","",1,0,0,1
+788,"coherent","balanced","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+788,"coherent","balanced","201611","Tail Held High","non-proximity","",0.8935546875,571.4012494590778,28.239781420764984,0.8935546875
+788,"coherent","balanced","201662","See Ya Later","close",0.5009765625,0.44921875,245.74953469377715,12.44594202898546,0.4482421875
+788,"coherent","balanced","202042","Light as a Feather","non-proximity","",0.919921875,640.6201128943693,31.574805378627005,0.919921875
+788,"coherent","balanced","210071","I Wanna Win With You","non-proximity","",0.9033203125,887.7849307023693,42.82054054054097,0.3408203125
+788,"coherent","balanced","900141","Victoria por Plancha","non-proximity","",0.908203125,788.7013159797945,38.71677419354863,0.908203125
+788,"coherent","balanced","910261","Operation Cacao","close",0.5185546875,0.462890625,395.88641805663457,19.71336146272851,0.462890625
+788,"coherent","victoria_only","100411","Native unique Lv4","native",0.478515625,0.478515625,731.5000967030071,36.26476190476203,0.3916015625
+788,"coherent","victoria_only","900141","Victoria por Plancha","non-proximity","",0.908203125,788.686119489144,39.04974910394274,0.908203125
+788,"straight-only","conservative","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4450641811401,35.94204081632665,0.392578125
+788,"straight-only","conservative","200151","Firm Conditions ◎","non-proximity","",1,0,0,1
+788,"straight-only","conservative","200201","Winter Runner ◎","non-proximity","",1,0,0,1
+788,"straight-only","conservative","200331","Professor of Curvature","non-proximity","",0.9208984375,545.0827684675986,26.956309650052997,0.9208984375
+788,"straight-only","conservative","200362","Straightaway Adept","non-proximity","",0.9072265625,576.7365380087706,27.926013634733053,0.4482421875
+788,"straight-only","conservative","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+788,"straight-only","conservative","200542","Fast-Paced","non-proximity","",0.9130859375,486.93272876840075,24.1346167557932,0.9130859375
+788,"straight-only","conservative","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4414606797606,43.51861379064004,0
+788,"straight-only","conservative","201241","Front Runner Straightaways ◎","non-proximity","",0.9091796875,579.4128031310122,28.017185821697502,0.4580078125
+788,"straight-only","conservative","201521","Front Runner Savvy ◎","non-proximity","",1,0,0,1
+788,"straight-only","conservative","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+788,"straight-only","conservative","201611","Tail Held High","non-proximity","",0.888671875,563.0290521549371,27.83391941391941,0.888671875
+788,"straight-only","conservative","202042","Light as a Feather","non-proximity","",0.919921875,640.6175109497755,31.573036093418253,0.919921875
+788,"straight-only","conservative","202392","Mad Dash","non-proximity","",0.90234375,341.31514427562644,17.083116883116848,0.90234375
+788,"straight-only","conservative","210071","I Wanna Win With You","non-proximity","",0.9033203125,887.7743115995985,42.82378378378423,0.3427734375
+788,"straight-only","conservative","900141","Victoria por Plancha","non-proximity","",0.908203125,800.6918542342476,39.29433691756292,0
+788,"straight-only","conditional","100411","Native unique Lv4","native",0.478515625,0.478515625,731.435251695538,35.911020408163424,0.3916015625
+788,"straight-only","conditional","200152","Firm Conditions ○","non-proximity","",1,0,0,1
+788,"straight-only","conditional","200202","Winter Runner ○","non-proximity","",1,0,0,1
+788,"straight-only","conditional","200331","Professor of Curvature","non-proximity","",0.9208984375,545.1288133609427,26.92145634499821,0.9208984375
+788,"straight-only","conditional","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+788,"straight-only","conditional","200542","Fast-Paced","non-proximity","",0.9130859375,486.92424657375994,24.101247771835993,0.9130859375
+788,"straight-only","conditional","200552","Final Push","non-proximity","",0.9033203125,671.5048964931013,33.02623423423426,0.9033203125
+788,"straight-only","conditional","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4833706112964,43.50260807431275,0
+788,"straight-only","conditional","200981","Staggering Lead","gap",0.349609375,0.31640625,337.4963010403385,16.865226337448533,0.31640625
+788,"straight-only","conditional","201271","Top Runner","side",0.4677734375,0.423828125,145.8792019372668,7.6480798771121234,0.423828125
+788,"straight-only","conditional","201522","Front Runner Savvy ○","non-proximity","",1,0,0,1
+788,"straight-only","conditional","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+788,"straight-only","conditional","201662","See Ya Later","close",0.5009765625,0.44921875,245.81386682992644,12.440289855072411,0.4482421875
+788,"straight-only","conditional","202042","Light as a Feather","non-proximity","",0.919921875,640.6311161595033,31.53602264685067,0.919921875
+788,"straight-only","conditional","202392","Mad Dash","non-proximity","",0.90234375,341.32623545651506,17.059595959595942,0.90234375
+788,"straight-only","conditional","900141","Victoria por Plancha","non-proximity","",0.908203125,800.7083849558188,39.27318996415795,0
+788,"straight-only","conditional","910261","Operation Cacao","close",0.5185546875,0.462890625,398.22242625834093,19.797468354430322,0.462890625
+788,"straight-only","balanced","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4593834738523,35.94503401360554,0.390625
+788,"straight-only","balanced","200152","Firm Conditions ○","non-proximity","",1,0,0,1
+788,"straight-only","balanced","200202","Winter Runner ○","non-proximity","",1,0,0,1
+788,"straight-only","balanced","200331","Professor of Curvature","non-proximity","",0.9208984375,545.1484025863489,26.959420289855068,0.9208984375
+788,"straight-only","balanced","200362","Straightaway Adept","non-proximity","",0.9072265625,576.7185696900679,27.922425547183728,0.4482421875
+788,"straight-only","balanced","200532","Early Lead","non-proximity","",0.8994140625,0,0,0.8994140625
+788,"straight-only","balanced","200542","Fast-Paced","non-proximity","",0.9130859375,486.9377106138534,24.133475935828862,0.9130859375
+788,"straight-only","balanced","200552","Final Push","non-proximity","",0.9033203125,671.4759665180108,33.06407207207211,0.9033203125
+788,"straight-only","balanced","200651","Turbo Sprint","non-proximity","",0.9111328125,894.4691279652532,43.512397284745035,0
+788,"straight-only","balanced","201241","Front Runner Straightaways ◎","non-proximity","",0.9091796875,579.4011382620841,28.01403508771968,0.4580078125
+788,"straight-only","balanced","201522","Front Runner Savvy ○","non-proximity","",1,0,0,1
+788,"straight-only","balanced","201601","Groundwork","non-proximity","",0.912109375,0,0.0878658101356178,0.912109375
+788,"straight-only","balanced","201611","Tail Held High","non-proximity","",0.8916015625,575.5189669840387,28.43950346841909,0.8916015625
+788,"straight-only","balanced","201662","See Ya Later","close",0.5009765625,0.44921875,245.75813569462352,12.446521739130386,0.4482421875
+788,"straight-only","balanced","202042","Light as a Feather","non-proximity","",0.919921875,640.6175470177596,31.575088464260435,0.919921875
+788,"straight-only","balanced","210071","I Wanna Win With You","non-proximity","",0.9033203125,887.7911709121678,42.82090090090135,0.341796875
+788,"straight-only","balanced","900141","Victoria por Plancha","non-proximity","",0.908203125,800.7042786068171,39.29584229390697,0
+788,"straight-only","balanced","910261","Operation Cacao","close",0.5185546875,0.462890625,398.21111312151265,19.826441631504878,0.462890625
+788,"straight-only","victoria_only","100411","Native unique Lv4","native",0.478515625,0.478515625,731.4903943906282,36.26517006802734,0.3916015625
+788,"straight-only","victoria_only","900141","Victoria por Plancha","non-proximity","",0.908203125,800.6967122962834,39.63225806451611,0

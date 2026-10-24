@@ -1,0 +1,212 @@
+[
+  {
+    "name": "reference-independent",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-native-0.1",
+    "model": "independent",
+    "rates": {
+      "native": 0.1,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-native-0.3",
+    "model": "independent",
+    "rates": {
+      "native": 0.3,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-native-0.5",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-native-0.7",
+    "model": "independent",
+    "rates": {
+      "native": 0.7,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-native-0.9",
+    "model": "independent",
+    "rates": {
+      "native": 0.9,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-gap-0.1",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.1,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-gap-0.3",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.3,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-gap-0.5",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.5,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-gap-0.7",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.7,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-gap-0.9",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.9,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-side-0.1",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.1,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-side-0.3",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.3,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-side-0.5",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.5,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-side-0.7",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.7,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-side-0.9",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.9,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-close-0.1",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.1
+    }
+  },
+  {
+    "name": "vary-close-0.3",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.3
+    }
+  },
+  {
+    "name": "vary-close-0.5",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.5
+    }
+  },
+  {
+    "name": "vary-close-0.7",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.7
+    }
+  },
+  {
+    "name": "vary-close-0.9",
+    "model": "independent",
+    "rates": {
+      "native": 0.5,
+      "gap": 0.35,
+      "side": 0.45,
+      "close": 0.9
+    }
+  }
+]

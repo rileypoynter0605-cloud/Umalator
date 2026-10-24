@@ -1,0 +1,632 @@
+{
+  "runner": {
+    "name": "Sakura Bakushin O",
+    "style": "Front Runner",
+    "speed": 1515,
+    "stamina": 402,
+    "power": 1003,
+    "guts": 695,
+    "wit": 976,
+    "distance_apt": "S",
+    "surface_apt": "S",
+    "style_apt": "A",
+    "mood": "normal"
+  },
+  "sp_budget": 2751,
+  "seed": 212026,
+  "owned_skills": [],
+  "options": [
+    {
+      "name": "No purchased skills",
+      "skills": []
+    },
+    {
+      "name": "Opening + Victoria",
+      "skills": [
+        {
+          "type": "green_speed",
+          "value": 40,
+          "sp": 81,
+          "name": "Winter Runner \u25cb"
+        },
+        {
+          "type": "green_power",
+          "value": 40,
+          "sp": 81,
+          "name": "Firm Conditions \u25cb"
+        },
+        {
+          "type": "green_wit",
+          "value": 40,
+          "sp": 88,
+          "name": "Front Runner Savvy \u25cb"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 3,
+          "sp": 80,
+          "name": "Groundwork"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 1.2,
+          "sp": 72,
+          "name": "Early Lead"
+        },
+        {
+          "type": "speed_accel",
+          "trigger": "at_distance",
+          "at_m": 788,
+          "value": 0.05,
+          "accel_value": 0.1,
+          "duration": 3,
+          "sp": 120,
+          "position_probability": 0.85,
+          "name": "Victoria por Plancha"
+        }
+      ]
+    },
+    {
+      "name": "Balanced finish 2750",
+      "skills": [
+        {
+          "type": "green_speed",
+          "value": 40,
+          "sp": 81,
+          "name": "Winter Runner \u25cb"
+        },
+        {
+          "type": "green_power",
+          "value": 40,
+          "sp": 81,
+          "name": "Firm Conditions \u25cb"
+        },
+        {
+          "type": "green_wit",
+          "value": 40,
+          "sp": 88,
+          "name": "Front Runner Savvy \u25cb"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 3,
+          "sp": 80,
+          "name": "Groundwork"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 1.2,
+          "sp": 72,
+          "name": "Early Lead"
+        },
+        {
+          "type": "speed_accel",
+          "trigger": "at_distance",
+          "at_m": 788,
+          "value": 0.05,
+          "accel_value": 0.1,
+          "duration": 3,
+          "sp": 120,
+          "position_probability": 0.85,
+          "name": "Victoria por Plancha"
+        },
+        {
+          "type": "speed_recover",
+          "trigger": "mid_corner",
+          "value": 0.15,
+          "recover_value": 0.0035,
+          "duration": 3,
+          "sp": 140,
+          "position_probability": 0.75,
+          "name": "Operation Cacao"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_corner",
+          "value": 0.35,
+          "duration": 2.4,
+          "sp": 306,
+          "name": "Professor of Curvature"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_straight",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 153,
+          "name": "Straightaway Adept"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 162,
+          "name": "Fast-Paced"
+        },
+        {
+          "type": "accel",
+          "trigger": "random_latephase",
+          "value": 0.4,
+          "duration": 3,
+          "sp": 320,
+          "name": "Turbo Sprint"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_straight",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 91,
+          "name": "Front Runner Straightaways \u25cb"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_latehalf",
+          "value": 0.15,
+          "duration": 2.4,
+          "sp": 144,
+          "name": "Light as a Feather"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.35,
+          "duration": 3,
+          "sp": 208,
+          "position_probability": 0.65,
+          "name": "See Ya Later!"
+        },
+        {
+          "type": "speed_accel",
+          "trigger": "random_half",
+          "value": 0.35,
+          "accel_value": 0.2,
+          "duration": 1.2,
+          "sp": 380,
+          "position_probability": 0.95,
+          "name": "I Wanna Win with You"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_latehalf",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 90,
+          "position_probability": 0.65,
+          "name": "Tail Held High"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_finalcorner",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 117,
+          "position_probability": 0.75,
+          "name": "Final Push"
+        }
+      ]
+    },
+    {
+      "name": "Contested Front, Top Runner",
+      "skills": [
+        {
+          "type": "green_speed",
+          "value": 40,
+          "sp": 81,
+          "name": "Winter Runner \u25cb"
+        },
+        {
+          "type": "green_power",
+          "value": 40,
+          "sp": 81,
+          "name": "Firm Conditions \u25cb"
+        },
+        {
+          "type": "green_wit",
+          "value": 40,
+          "sp": 88,
+          "name": "Front Runner Savvy \u25cb"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 3,
+          "sp": 80,
+          "name": "Groundwork"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 1.2,
+          "sp": 72,
+          "name": "Early Lead"
+        },
+        {
+          "type": "speed_accel",
+          "trigger": "at_distance",
+          "at_m": 788,
+          "value": 0.05,
+          "accel_value": 0.1,
+          "duration": 3,
+          "sp": 120,
+          "position_probability": 0.85,
+          "name": "Victoria por Plancha"
+        },
+        {
+          "type": "speed_recover",
+          "trigger": "mid_corner",
+          "value": 0.15,
+          "recover_value": 0.0035,
+          "duration": 3,
+          "sp": 140,
+          "position_probability": 0.75,
+          "name": "Operation Cacao"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_corner",
+          "value": 0.35,
+          "duration": 2.4,
+          "sp": 306,
+          "name": "Professor of Curvature"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_straight",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 153,
+          "name": "Straightaway Adept"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 162,
+          "name": "Fast-Paced"
+        },
+        {
+          "type": "accel",
+          "trigger": "random_latephase",
+          "value": 0.4,
+          "duration": 3,
+          "sp": 320,
+          "name": "Turbo Sprint"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_straight",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 91,
+          "name": "Front Runner Straightaways \u25cb"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_latehalf",
+          "value": 0.15,
+          "duration": 2.4,
+          "sp": 144,
+          "name": "Light as a Feather"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.35,
+          "duration": 3,
+          "sp": 208,
+          "position_probability": 0.65,
+          "name": "See Ya Later!"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_latehalf",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 90,
+          "position_probability": 0.65,
+          "name": "Tail Held High"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_finalcorner",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 117,
+          "position_probability": 0.75,
+          "name": "Final Push"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.35,
+          "duration": 3,
+          "sp": 342,
+          "position_probability": 0.8,
+          "name": "Top Runner"
+        }
+      ]
+    },
+    {
+      "name": "White Turbo + both greens",
+      "skills": [
+        {
+          "type": "green_speed",
+          "value": 40,
+          "sp": 81,
+          "name": "Winter Runner \u25cb"
+        },
+        {
+          "type": "green_power",
+          "value": 40,
+          "sp": 81,
+          "name": "Firm Conditions \u25cb"
+        },
+        {
+          "type": "green_wit",
+          "value": 40,
+          "sp": 88,
+          "name": "Front Runner Savvy \u25cb"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 3,
+          "sp": 80,
+          "name": "Groundwork"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 1.2,
+          "sp": 72,
+          "name": "Early Lead"
+        },
+        {
+          "type": "speed_accel",
+          "trigger": "at_distance",
+          "at_m": 788,
+          "value": 0.05,
+          "accel_value": 0.1,
+          "duration": 3,
+          "sp": 120,
+          "position_probability": 0.85,
+          "name": "Victoria por Plancha"
+        },
+        {
+          "type": "speed_recover",
+          "trigger": "mid_corner",
+          "value": 0.15,
+          "recover_value": 0.0035,
+          "duration": 3,
+          "sp": 140,
+          "position_probability": 0.75,
+          "name": "Operation Cacao"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_corner",
+          "value": 0.35,
+          "duration": 2.4,
+          "sp": 306,
+          "name": "Professor of Curvature"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_straight",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 153,
+          "name": "Straightaway Adept"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 162,
+          "name": "Fast-Paced"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_latehalf",
+          "value": 0.15,
+          "duration": 2.4,
+          "sp": 144,
+          "name": "Light as a Feather"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.35,
+          "duration": 3,
+          "sp": 208,
+          "position_probability": 0.65,
+          "name": "See Ya Later!"
+        },
+        {
+          "type": "speed_accel",
+          "trigger": "random_half",
+          "value": 0.35,
+          "accel_value": 0.2,
+          "duration": 1.2,
+          "sp": 380,
+          "position_probability": 0.95,
+          "name": "I Wanna Win with You"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_latehalf",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 90,
+          "position_probability": 0.65,
+          "name": "Tail Held High"
+        },
+        {
+          "type": "accel",
+          "trigger": "random_latephase",
+          "value": 0.2,
+          "duration": 3,
+          "sp": 160,
+          "name": "Sprinting Gear"
+        },
+        {
+          "type": "green_stamina",
+          "value": 40,
+          "sp": 81,
+          "name": "Standard Distance \u25cb"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_straight",
+          "value": 0.25,
+          "duration": 3,
+          "sp": 189,
+          "name": "Front Runner Straightaways \u25ce"
+        }
+      ]
+    },
+    {
+      "name": "No Tailing / no Final",
+      "skills": [
+        {
+          "type": "green_speed",
+          "value": 40,
+          "sp": 81,
+          "name": "Winter Runner \u25cb"
+        },
+        {
+          "type": "green_power",
+          "value": 40,
+          "sp": 81,
+          "name": "Firm Conditions \u25cb"
+        },
+        {
+          "type": "green_wit",
+          "value": 40,
+          "sp": 88,
+          "name": "Front Runner Savvy \u25cb"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 3,
+          "sp": 80,
+          "name": "Groundwork"
+        },
+        {
+          "type": "accel",
+          "trigger": "early_entry",
+          "value": 0.2,
+          "duration": 1.2,
+          "sp": 72,
+          "name": "Early Lead"
+        },
+        {
+          "type": "speed_accel",
+          "trigger": "at_distance",
+          "at_m": 788,
+          "value": 0.05,
+          "accel_value": 0.1,
+          "duration": 3,
+          "sp": 120,
+          "position_probability": 0.85,
+          "name": "Victoria por Plancha"
+        },
+        {
+          "type": "speed_recover",
+          "trigger": "mid_corner",
+          "value": 0.15,
+          "recover_value": 0.0035,
+          "duration": 3,
+          "sp": 140,
+          "position_probability": 0.75,
+          "name": "Operation Cacao"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_corner",
+          "value": 0.35,
+          "duration": 2.4,
+          "sp": 306,
+          "name": "Professor of Curvature"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_straight",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 153,
+          "name": "Straightaway Adept"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 162,
+          "name": "Fast-Paced"
+        },
+        {
+          "type": "accel",
+          "trigger": "random_latephase",
+          "value": 0.4,
+          "duration": 3,
+          "sp": 320,
+          "name": "Turbo Sprint"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_straight",
+          "value": 0.15,
+          "duration": 3,
+          "sp": 91,
+          "name": "Front Runner Straightaways \u25cb"
+        },
+        {
+          "type": "speed",
+          "trigger": "mid_latehalf",
+          "value": 0.15,
+          "duration": 2.4,
+          "sp": 144,
+          "name": "Light as a Feather"
+        },
+        {
+          "type": "speed",
+          "trigger": "random_mid",
+          "value": 0.35,
+          "duration": 3,
+          "sp": 208,
+          "position_probability": 0.65,
+          "name": "See Ya Later!"
+        },
+        {
+          "type": "speed_accel",
+          "trigger": "random_half",
+          "value": 0.35,
+          "accel_value": 0.2,
+          "duration": 1.2,
+          "sp": 380,
+          "position_probability": 0.95,
+          "name": "I Wanna Win with You"
+        }
+      ]
+    }
+  ]
+}

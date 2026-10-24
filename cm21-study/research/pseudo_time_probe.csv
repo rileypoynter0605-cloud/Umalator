@@ -1,0 +1,37 @@
+lobby,strength,package,trials,mean_seconds,mean_hp,pseudo_win_fraction,limitation
+Pace-heavy (1F 5P 3E),mixed,No purchases,128,56.314758428015665,379.2900603590165,0.0390625,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Pace-heavy (1F 5P 3E),mixed,Balanced gold + IWW,128,55.59403017211247,338.59134253889204,0.453125,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Pace-heavy (1F 5P 3E),mixed,Contested gold + Top Runner,128,55.60884410552,340.06726008721876,0.4140625,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Pace-heavy (1F 5P 3E),competitive,No purchases,128,56.41814534360584,382.2822607594499,0.0,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Pace-heavy (1F 5P 3E),competitive,Balanced gold + IWW,128,55.687391409020776,341.1243204933494,0.25,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Pace-heavy (1F 5P 3E),competitive,Contested gold + Top Runner,128,55.70286709820459,342.5910242048387,0.25,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Pace-heavy (1F 5P 3E),elite,No purchases,128,56.33122684421521,395.01754527853655,0.0,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Pace-heavy (1F 5P 3E),elite,Balanced gold + IWW,128,55.60959726985449,356.89163438060734,0.2734375,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Pace-heavy (1F 5P 3E),elite,Contested gold + Top Runner,128,55.61477875014747,357.62014306209437,0.2890625,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),mixed,No purchases,128,56.327899970193485,379.17277340965944,0.015625,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),mixed,Balanced gold + IWW,128,55.600473404054725,339.9393067529908,0.5,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),mixed,Contested gold + Top Runner,128,55.6199163434015,341.5016607982677,0.4921875,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),competitive,No purchases,128,56.37360694704259,388.5349092667757,0.0,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),competitive,Balanced gold + IWW,128,55.64462111299673,348.8168709922302,0.296875,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),competitive,Contested gold + Top Runner,128,55.662289852744145,350.4406272411135,0.2734375,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),elite,No purchases,128,56.33128446201678,387.5645325178747,0.0,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),elite,Balanced gold + IWW,128,55.58269544280769,345.6635008261071,0.265625,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Historical-mix (1F 4P 1L 3E),elite,Contested gold + Top Runner,128,55.59047090643403,346.43038036699465,0.25,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),mixed,No purchases,128,56.465230239532275,382.6596350587507,0.015625,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),mixed,Balanced gold + IWW,128,55.681771909369274,342.9783106746121,0.4453125,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),mixed,Contested gold + Top Runner,128,55.68976178637794,344.20250580021104,0.4296875,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),competitive,No purchases,128,56.434799270630265,392.92853319518866,0.0,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),competitive,Balanced gold + IWW,128,55.638896814512734,350.86159976467604,0.296875,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),competitive,Contested gold + Top Runner,128,55.64084109013454,351.9559433742206,0.296875,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),elite,No purchases,128,56.44093763258863,378.8931705723071,0.0,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),elite,Balanced gold + IWW,128,55.655676707398,339.9787425325135,0.1875,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Contested front (2F 4P 3E),elite,Contested gold + Top Runner,128,55.64765348251083,340.14682182002696,0.203125,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),mixed,No purchases,128,56.39128939497563,387.5637213312883,0.0078125,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),mixed,Balanced gold + IWW,128,55.60698330489464,346.31217960238786,0.5,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),mixed,Contested gold + Top Runner,128,55.61769906065342,347.9222363850039,0.4765625,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),competitive,No purchases,128,56.42658931951904,395.2810705738713,0.0,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),competitive,Balanced gold + IWW,128,55.588945003669984,350.3406682528065,0.40625,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),competitive,Contested gold + Top Runner,128,55.59597923588799,351.2381254582118,0.34375,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),elite,No purchases,128,56.36754626321503,392.43124436989103,0.0078125,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),elite,Balanced gold + IWW,128,55.62676200605219,351.70632950259346,0.2109375,Synthetic nine-runner model; not Umalator or measured CM outcomes
+Front-heavy (3F 4P 2E),elite,Contested gold + Top Runner,128,55.62145690293222,352.825227795938,0.1953125,Synthetic nine-runner model; not Umalator or measured CM outcomes

@@ -1,0 +1,17 @@
+{
+  "old_artifacts_preserved": 54,
+  "old_source_unchanged": true,
+  "old_memo_snapshot_exact": true,
+  "cases": 42,
+  "validated_candidates": 40,
+  "rows": 1680,
+  "candidate_budgets_valid": true,
+  "prior_commit": "be947c18356144e82faf3b99bcd0ac645f8128ca",
+  "source_hashes": {
+    "uma-skill-tools/RaceSolver.ts": "b566ad7ca789fc4214c4e6a729f53767420301a2e44e49c2b3e1960cf52956ac",
+    "uma-skill-tools/RaceSolverBuilder.ts": "9f089fc89306397286d7f7d718d5fa37a43c94a112d5932fa1302e8f0e2f9078",
+    "uma-skill-tools/HpPolicy.ts": "f83213793252efba25ab57448b952e9fac2de0bcb18b7ddd5b60c785d1bd8b4c",
+    "umalator-global/course_data.json": "fb31ac4a373ca651ce0c27f7c1d50ef38fdfea838135a300e8cca953599b215c",
+    "umalator-global/skill_data.json": "5cd7d69bfe8421d42d27c1a2124f96b8993e4e7e69dd1fc25a09c49bf85d31a6"
+  }
+}
